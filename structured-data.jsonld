@@ -1,0 +1,85 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HomeAndConstructionBusiness",
+  "name": "WB&S Contractors",
+  "alternateName": [
+    "Samuel Martínez",
+    "Carpet & Flooring Solutions",
+    "Casa Carpet",
+    "El Paso Carpet & Flooring",
+    "El Paso Home Improvement",
+    "Floor Ko LLC",
+    "American Kestrel Flooring LLC",
+    "Flooring by Alex & Alex",
+    "Floor Coverings International",
+    "Epoxee",
+    "Meraz Floors"
+  ],
+  "url": "https://www.wbscontractors.com/",
+  "logo": "https://lh6.googleusercontent.com/WPA9V1-EHzLKw0is031JGf-kkqWxyAmbCnc3TgUCb38HQRQumuFI5bJF_4Y2Il4NkSVRVUDAs3095beVXFDVo5xPULZM5juzDAG3gWq5MI0xI1gxM7rYrzPTX5Gm0k9oKLUYx8Bf5KPyWgzvLPbohXGILwWV6Tb2WIhDotBiVw9sEj39-7z2vQ=w1280",
+  "description": "WB&S Contractors has over 10 years of experience providing professional flooring installation and home remodeling services in El Paso, TX, and surrounding areas.",
+  "email": "contact@wbscontractors.com",
+  "telephone": "+1-915-355-2371",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Gateway Blvd W",
+    "addressLocality": "El Paso",
+    "addressRegion": "TX",
+    "postalCode": "79903",
+    "addressCountry": "US"
+  },
+  "areaServed": [
+    "El Paso TX",
+    "Anthony TX",
+    "Fabens TX",
+    "Canutillo TX",
+    "Horizon City TX",
+    "Socorro TX",
+    "Homestead Meadows TX",
+    "Chaparral NM",
+    "Sunland Park NM",
+    "Vado NM",
+    "Las Cruces NM"
+  ],
+  "founder": "Samuel Martínez",
+  "foundingLocation": "El Paso, TX",
+  "paymentAccepted": [
+    "Cash",
+    "Credit Card",
+    "Visa",
+    "MasterCard",
+    "Paypal",
+    "Cashapp",
+    "Zelle"
+  ],
+  "priceRange": "$$",
+  "openingHours": "Mo-Fr 08:00-18:00",
+  "sameAs": [
+    "https://www.facebook.com/wbscontractors",
+    "https://www.instagram.com/wbscontractors",
+    "https://bootsandladders.com/listings/TX/El%20Paso/home-renovation/instalacion-de-alfombra-residencial-estimates-gratis",
+    "https://bootsandladders.com/listings/TX/El%20Paso/flooring/commercial-carpet-installation-durable-professional-affordable",
+    "https://bootsandladders.com/listings/TX/El%20Paso/flooring/ceramic-porcelain-tile-installation",
+    "https://bootsandladders.com/listings/TX/El%20Paso/home-renovation/instalacion-de-ceramic-porcelain-tile-estimados-gratis",
+    "https://bootsandladders.com/listings/TX/El%20Paso/flooring/professional-carpet-installation-for-homes-businesses",
+    "https://bootsandladders.com/listings/TX/El%20Paso/flooring/luxury-vinyl-stair-installation-durable-stylish-and-affordable-solutions-for-modern-homes",
+    "https://bootsandladders.com/listings/TX/El%20Paso/painting/professional-painting-services-you-can-trust",
+    "https://bootsandladders.com/listings/TX/El%20Paso/home-renovation/expert-carpet-flooring-installation-in-albuquerque-free-estimates-available"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Services Offered",
+    "itemListElement": [
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Carpet Installation" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Laminate & LVP Flooring" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Ceramic & Porcelain Tile Installation" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Stair Remodeling" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Bathroom Remodeling" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Interior & Exterior Painting" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Custom Trim, Baseboards, and Moulding" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Kitchen Backsplashes" } }
+    ]
+  }
+}
+</script>
